@@ -8,7 +8,7 @@ W katalogu projektu możesz uruchomić następujące polecenia:
 Uruchamia aplikację w trybie deweloperskim.
 Po odpaleniu otwórz w przeglądarce:
 
-https://react-projekt-miniportal-bootstrap-k81s8gk27.vercel.app
+https://react-projekt-miniportal-bootstrap.vercel.app/
 
 
 Strona będzie automatycznie przeładowywana po wprowadzeniu zmian w kodzie.
