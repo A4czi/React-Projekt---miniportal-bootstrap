@@ -1,37 +1,77 @@
-This project was bootstrapped with Create React App.
-Available Scripts
-In the project directory, you can run:
-npm start
-Runs the app in the development mode.
-Open https://react-projekt-miniportal-bootstrap-k81s8gk27.vercel.app to view it in your browser.
-The page will reload when you make changes.
-You may also see any lint errors in the console.
-npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
-npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
-See the section about deployment for more information.
-npm run eject
-Note: this is a one-way operation. Once you eject, you can't go back!
-If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-Learn More
-You can learn more in the Create React App documentation.
-To learn React, check out the React documentation.
-Code Splitting
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-Analyzing the Bundle Size
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-Making a Progressive Web App
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-Advanced Configuration
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-Deployment
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-npm run build fails to minify
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+ Projekt utworzony za pomocą Create React App
+Dostępne skrypty
+
+W katalogu projektu możesz uruchomić następujące polecenia:
+
+1. npm start
+
+Uruchamia aplikację w trybie deweloperskim.
+Po odpaleniu otwórz w przeglądarce:
+
+https://react-projekt-miniportal-bootstrap-k81s8gk27.vercel.app
+
+
+Strona będzie automatycznie przeładowywana po wprowadzeniu zmian w kodzie.
+W konsoli mogą pojawić się również błędy lintera.
+
+2. npm test
+
+Uruchamia testy w trybie interaktywnego podglądu.
+Więcej informacji znajdziesz w sekcji dotyczącej testów w dokumentacji.
+
+3. npm run build
+
+Tworzy produkcyjną wersję aplikacji w folderze build.
+
+React jest bundlowany w trybie produkcyjnym.
+
+Kod jest optymalizowany pod kątem wydajności.
+
+Pliki są minimalizowane, a nazwy zawierają hashe.
+
+Aplikacja jest gotowa do wdrożenia.
+
+Więcej informacji znajdziesz w sekcji dotyczącej deploymentu.
+
+4. npm run eject
+
+⚠️ Uwaga: operacja nieodwracalna!
+
+Polecenie to:
+
+usuwa pojedynczą zależność buildową,
+
+kopiuje wszystkie pliki konfiguracyjne oraz zależności (webpack, Babel, ESLint itp.) bezpośrednio do projektu,
+
+daje pełną kontrolę nad konfiguracją.
+
+Pozostałe skrypty nadal będą działać, lecz będą odwoływać się do nowych lokalnych plików.
+
+Nie musisz korzystać z eject.
+Domyślna konfiguracja jest odpowiednia dla małych i średnich projektów, jednak opcja istnieje dla pełnej customizacji.
+
+Dowiedz się więcej
+
+Dokumentacja Create React App
+
+Dokumentacja React
+
+Dodatkowe materiały
+
+Code Splitting:
+https://facebook.github.io/create-react-app/docs/code-splitting
+
+Analiza wielkości bundla:
+https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+Tworzenie Progressive Web App:
+https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+Zaawansowana konfiguracja:
+https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+Deployment:
+https://facebook.github.io/create-react-app/docs/deployment
+
+Błąd: npm run build fails to minify:
+https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify  
